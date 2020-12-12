@@ -1,0 +1,16 @@
+{
+  "name": "asimov-deploy",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/alexander-vera/asimov-home",
+  "main": "precache-manifest.46639ebcb38a51c8108a436887121312.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "gh-pages": "^3.1.0"
+  }
+}
